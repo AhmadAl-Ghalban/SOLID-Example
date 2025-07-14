@@ -1,3 +1,9 @@
+// Single Responsibility Principle (SRP) Example
+
+// The Single Responsibility Principle states that a class should have only one reason to change, meaning it should have only one job or responsibility.
+// This principle helps in maintaining cleaner and more manageable code.
+
+
 // ❌ Bad Example – Violates SRP:
 class UserManager {
     addUser(){
